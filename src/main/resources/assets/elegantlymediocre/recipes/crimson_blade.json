@@ -1,0 +1,22 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "ARA",
+        "ARA",
+        "ASA"
+    ],
+    "key": {
+        "R": {
+            "item": "minecraft:redstone"
+        },
+        "A": {
+            "item": "elegantlymediocre:arcane_core"
+        },
+        "S": {
+            "item": "minecraft:diamond_sword"
+        }
+    },
+    "result": {
+        "item": "elegantlymediocre:crimson_blade"
+    }
+}

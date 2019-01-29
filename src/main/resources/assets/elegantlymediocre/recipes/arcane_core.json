@@ -1,0 +1,19 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "EEE",
+        "EPE",
+        "EEE"
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:diamond"
+        },
+        "E": {
+            "item": "elegantlymediocre:arcane_essence"
+        }
+    },
+    "result": {
+        "item": "elegantlymediocre:arcane_core"
+    }
+}

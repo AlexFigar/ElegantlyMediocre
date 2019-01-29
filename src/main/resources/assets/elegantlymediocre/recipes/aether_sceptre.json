@@ -1,0 +1,19 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "GEG",
+        " G ",
+        " G "
+    ],
+    "key": {
+        "G": {
+            "item": "minecraft:gold_ingot"
+        },
+        "E": {
+            "item": "elegantlymediocre:eye_into_the_aether"
+        }
+    },
+    "result": {
+        "item": "elegantlymediocre:aether_sceptre"
+    }
+}

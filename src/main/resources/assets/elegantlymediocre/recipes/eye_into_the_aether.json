@@ -1,0 +1,29 @@
+{
+    "type": "forge:ore_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:redstone"
+        },
+        {
+            "item": "minecraft:glowstone_dust"
+        },
+        {
+            "item": "minecraft:ender_eye"
+        },
+        {
+            "item": "minecraft:feather"
+        },
+        {
+            "item": "minecraft:nether_star"
+        },
+        {
+            "item": "elegantlymediocre:arcane_core"
+        },
+        {
+            "item": "minecraft:dragon_breath"
+        }
+    ],
+    "result": {
+        "item": "elegantlymediocre:eye_into_the_aether"
+    }
+}

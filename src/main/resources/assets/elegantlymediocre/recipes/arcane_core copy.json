@@ -1,0 +1,20 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "B",
+        "F",
+        "B"
+    ],
+    "key": {
+        "B": {
+            "item": "minecraft:bread"
+        },
+        "F": {
+            "item": "minecraft:cooked_fish",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "elegantlymediocre:barramundi_burger"
+    }
+}

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "elegantlymediocre",
+  "name": "The Elegantly Mediocre Mod",
+  "description": "Elegant mediocraty ",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Alex Figar"],
+  "credits": "Me only me, just me, me",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
