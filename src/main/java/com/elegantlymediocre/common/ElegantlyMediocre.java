@@ -1,5 +1,6 @@
 package com.elegantlymediocre.common;
 
+import net.minecraft.block.Block;
 import net.minecraft.init.Blocks;
 import net.minecraft.item.Item;
 import net.minecraftforge.event.RegistryEvent;
@@ -16,6 +17,7 @@ import net.minecraftforge.common.util.EnumHelper;
 
 import org.apache.logging.log4j.Logger;
 
+import com.elegantlymediocre.block.ModBlocks;
 import com.elegantlymediocre.item.ModItems;
 import com.elegantlymediocre.proxy.CommonProxy;
 import com.elegantlymediocre.recipe.ModRecipes;
@@ -46,11 +48,19 @@ public class ElegantlyMediocre
 		@SubscribeEvent
 		public static void registerItems(RegistryEvent.Register<Item> event) {
 			ModItems.register(event.getRegistry());
+			ModBlocks.registerItemBlocks(event.getRegistry());
 		}
 		
 		@SubscribeEvent
 		public static void registerItems(ModelRegistryEvent event) {
 			ModItems.registerModels();
+			ModBlocks.registerModels();
+
+		}
+		
+		@SubscribeEvent
+		public static void registerBlocks(RegistryEvent.Register<Block> event) {
+			ModBlocks.register(event.getRegistry());
 		}
 	
 	}
