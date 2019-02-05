@@ -10,10 +10,11 @@
             "item": "minecraft:obsidian"
         },
         "E": {
-            "item": "elegantlymediocre:iron_ingot"
+            "item": "minecraft:iron_ingot"
         }
     },
     "result": {
-        "item": "elegantlymediocre:armored_block"
+        "item": "elegantlymediocre:armored_block",
+        "count": 4
     }
 }

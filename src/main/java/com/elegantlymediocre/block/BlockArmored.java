@@ -9,7 +9,7 @@ public class BlockArmored extends BlockBase {
 		super(Material.ROCK, name);
 	
 		setHardness(4f);
-		setResistance(6f);
+		setResistance(20f);
 	}
 	
 	@Override
