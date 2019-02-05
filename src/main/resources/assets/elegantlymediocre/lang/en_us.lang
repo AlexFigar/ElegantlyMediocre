@@ -8,5 +8,6 @@ item.aether_sceptre.name=Aether Sceptre
 item.crimson_blade.name=Crimson Blade
 item.fish_finger.name=Sfish Finger
 
+tile.armored_block.name = Armored Block
 
 itemGroup.elegantlymediocre=Elegantly Mediocre

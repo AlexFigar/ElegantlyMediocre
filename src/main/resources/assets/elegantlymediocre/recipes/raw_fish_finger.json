@@ -1,0 +1,17 @@
+{
+    "type": "forge:ore_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:egg"
+        },
+        {
+            "item": "minecraft:fish"
+        },
+        {
+            "item": "minecraft:wheat"
+        }
+    ],
+    "result": {
+        "item": "elegantlymediocre:raw_fish_finger"
+    }
+}
