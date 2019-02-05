@@ -1,0 +1,19 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "EEE",
+        "EPE",
+        "EEE"
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:obsidian"
+        },
+        "E": {
+            "item": "elegantlymediocre:iron_ingot"
+        }
+    },
+    "result": {
+        "item": "elegantlymediocre:armored_block"
+    }
+}
