@@ -2,11 +2,11 @@ item.arcane_core.name=Arcane Core
 item.magic_dust.name=Magic Dust
 item.arcane_essence.name=Arcane Essence
 item.eye_into_the_aether.name=Eye Into The Aether
-item.barramundi_burger.name=Ubursts Barramundi Burger
-item.raw_fish_finger.name=Raw Sfish Finger
+item.barramundi_burger.name=Barramundi Burger
+item.raw_fish_finger.name=Raw Fish Finger
 item.aether_sceptre.name=Aether Sceptre
 item.crimson_blade.name=Crimson Blade
-item.fish_finger.name=Sfish Finger
+item.fish_finger.name=Fish Finger
 
 tile.armored_block.name = Armored Block
 
