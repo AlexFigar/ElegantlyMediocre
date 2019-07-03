@@ -2,8 +2,6 @@ package com.elegantlymediocre.recipe;
 
 import com.elegantlymediocre.item.ModItems;
 
-import net.minecraft.init.Blocks;
-import net.minecraft.init.Items;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.crafting.Ingredient;
 import net.minecraft.util.ResourceLocation;
